@@ -12,7 +12,7 @@ This app is still under development, and it is not fully functional. Currently i
 
 This version makes an axios request to a locally deplyed JSON server so if you try to run the app, you'll probably have to change the axios request to a differnet server.
 
-In the bottom of this readme file there's the structure of the json server i use.
+In the bottom of this readme file there's the structure of the json database I use.
 
 Keep in mind that i'm a begginer in development, and this app is build from the root by me, supported on tutorials and such.
 
@@ -90,7 +90,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # order-register
 
-***_JSON server structure_***
+***_JSON database structure_***
 
 {
   "dias": [
