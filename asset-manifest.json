@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/order-register/static/css/main.9bafdc70.chunk.css",
+    "main.js": "/order-register/static/js/main.198ed268.chunk.js",
+    "main.js.map": "/order-register/static/js/main.198ed268.chunk.js.map",
+    "runtime-main.js": "/order-register/static/js/runtime-main.b3ba5532.js",
+    "runtime-main.js.map": "/order-register/static/js/runtime-main.b3ba5532.js.map",
+    "static/css/2.5857e1f9.chunk.css": "/order-register/static/css/2.5857e1f9.chunk.css",
+    "static/js/2.ba4f8d24.chunk.js": "/order-register/static/js/2.ba4f8d24.chunk.js",
+    "static/js/2.ba4f8d24.chunk.js.map": "/order-register/static/js/2.ba4f8d24.chunk.js.map",
+    "static/js/3.e9258fc2.chunk.js": "/order-register/static/js/3.e9258fc2.chunk.js",
+    "static/js/3.e9258fc2.chunk.js.map": "/order-register/static/js/3.e9258fc2.chunk.js.map",
+    "index.html": "/order-register/index.html",
+    "static/css/2.5857e1f9.chunk.css.map": "/order-register/static/css/2.5857e1f9.chunk.css.map",
+    "static/css/main.9bafdc70.chunk.css.map": "/order-register/static/css/main.9bafdc70.chunk.css.map",
+    "static/js/2.ba4f8d24.chunk.js.LICENSE.txt": "/order-register/static/js/2.ba4f8d24.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/order-register/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3ba5532.js",
+    "static/css/2.5857e1f9.chunk.css",
+    "static/js/2.ba4f8d24.chunk.js",
+    "static/css/main.9bafdc70.chunk.css",
+    "static/js/main.198ed268.chunk.js"
+  ]
+}
