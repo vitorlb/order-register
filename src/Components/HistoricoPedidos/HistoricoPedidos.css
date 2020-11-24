@@ -1,0 +1,10 @@
+.dataMesas {display: flex ; flex-wrap: wrap-reverse ; margin-top: 20px; flex-direction: row-reverse;}
+.dataMesa { 
+    padding: 15px;
+    border: solid 1px lightgrey ;
+    margin: 5px;
+}
+
+.dataMesa > hr {border-top: 1px solid rgba(177, 177, 177, 0.507);}
+
+.conteudo > p {font-size: .7em;}
