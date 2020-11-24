@@ -1,0 +1,18 @@
+
+
+.lista-mesas {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ 
+.confirm {width: 100%}
+
+.mesa {width: 33.33%;}
+
+.mesa > button {width: 100%}   
+
+
+.zonas>* {width: 50%;}
+.display-mesas {width: 100%}
+
